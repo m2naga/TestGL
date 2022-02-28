@@ -1,1 +1,1 @@
-# TestGL
+# webgl_test
